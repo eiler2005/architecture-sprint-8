@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="keycloak.admin.cli" type="repository">
+    <properties maven-id="org.keycloak:keycloak-admin-cli:14.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/keycloak/keycloak-admin-cli/14.0.0/keycloak-admin-cli-14.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

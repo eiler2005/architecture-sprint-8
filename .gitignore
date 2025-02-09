@@ -1,2 +1,5 @@
 /postgres-keycloak-data
 2024__yandex-architecture-sso.code-workspace
+/target/
+/node_modules/
+/keycloak/postgres-keycloak-data/
